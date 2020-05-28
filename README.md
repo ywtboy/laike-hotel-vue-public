@@ -1,5 +1,5 @@
-# laike-hotel
-
+# laike-hotel 前端
+后端：https://github.com/ywtboy/laike-hotel
 ## Project setup
 ```
 npm install
